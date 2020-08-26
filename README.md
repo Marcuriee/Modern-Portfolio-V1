@@ -14,4 +14,4 @@ Being Just A Static Template, All You Need To Do Is To `Clone/Download` This Rep
 * [Google Fonts](https://fonts.google.com/)
 
 ## License
-This Project Is Licensed Under The MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This Project Is Licensed Under The MIT License - See The [LICENSE.md](LICENSE.md) File For Details.
