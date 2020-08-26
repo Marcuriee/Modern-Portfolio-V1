@@ -1,12 +1,12 @@
 # Modern Portfolio V1
 ![](preview.png)
-This was my first portfolio ever built.
+This Was My first Portfolio Ever Built.
 
 ## Preview
-* [Live Preview](https://)
+* [Live Preview](https://whit3h4tjr.github.io/Modern-Portfolio-V1/)
 
 ## Installing
-Being just a static template, all you need to do is to `Clone/Download` this repository into your machine and then open `index.html` using your browser.
+Being Just A Static Template, All You Need To Do Is To `Clone/Download` This Repository Into Your Machine And Then Open `index.html` Using Your Browser.
 
 ## Technologies Used
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
@@ -14,4 +14,4 @@ Being just a static template, all you need to do is to `Clone/Download` this rep
 * [Google Fonts](https://fonts.google.com/)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This Project Is Licensed Under The MIT License - see the [LICENSE.md](LICENSE.md) file for details
