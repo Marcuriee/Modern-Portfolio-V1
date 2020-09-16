@@ -1,9 +1,9 @@
 # Modern Portfolio V1
 ![](preview.png)
-This Was My first Portfolio Ever Built.
+A Simple And Elegant Template For Your Next Portfolio.
 
 ## Preview
-* [Live Preview](https://whit3h4tjr.github.io/Modern-Portfolio-V1/)
+* [Live Preview](https://marcuriee.github.io/Modern-Portfolio-V1/)
 
 ## Installing
 Being Just A Static Template, All You Need To Do Is To `Clone/Download` This Repository Into Your Machine And Then Open `index.html` Using Your Browser.
